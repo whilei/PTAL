@@ -18,7 +18,7 @@ This began as a gist,
 
 ```shell
 # (This assumes that $HOME/bin is already in your $PATH.)
-$ curl -o $HOME/bin/PTAL https://github.com/whilei/PTAL/raw/master/PTAL &&
+$ curl -o $HOME/bin/PTAL https://github.com/whilei/PTAL/raw/master/PTAL && \
 chmod +x $HOME/bin/PTAL
 ```
 
